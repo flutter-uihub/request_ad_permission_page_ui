@@ -1,6 +1,9 @@
+[![pub package](https://img.shields.io/pub/v/request_ad_permission_page_ui.svg)](https://pub.dartlang.org/packages/request_ad_permission_page_ui)
+
+
 # request_ad_permission_page_ui
 
-[//]: # ([![YouTube Video Title]&#40;https://img.youtube.com/vi/[video-id]/0.jpg&#41;]&#40;https://www.youtube.com/watch?v=[video-id]&#41;)
+[![YouTube Video Title](https://img.youtube.com/vi/SCJsYSWc-OA/0.jpg)](https://www.youtube.com/watch?v=SCJsYSWc-OA)
 
 
 
